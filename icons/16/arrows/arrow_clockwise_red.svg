@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" enable-background="new" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="b" y2="3.1" gradientUnits="userSpaceOnUse" x2="7.01" gradientTransform="translate(-.0319)" y1="14" x1="8.98">
+<stop stop-color="#5f0000" offset="0"/>
+<stop stop-color="#a40000" offset="1"/>
+</linearGradient>
+<linearGradient id="a" y2="4.05" gradientUnits="userSpaceOnUse" x2="7.04" gradientTransform="translate(-.0319)" y1="15" x1="9.52">
+<stop stop-color="#f03c3c" offset="0"/>
+<stop stop-color="#f89999" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+<dc:creator>
+<cc:Agent>
+<dc:title>Geert Bergman, geert@www.scrivo.org</dc:title>
+</cc:Agent>
+</dc:creator>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g>
+<path stroke-linejoin="round" d="m15.5 12.5v-9l-3 3c-2-1.95-3.27-2.93-5.55-2.95-2.62 0.09-3.91 1.05-5.42 2.96-0.874 1.45-1.1 2.46-0.97 4.09 0.231 1.69 0.971 2.88 0.968 2.89 0.337-1.92 0.751-3.08 1.39-4.14 0.957-1.31 1.82-1.86 3.12-1.86 1.68 0 2.5 1.01 3.49 2l-3 3z" stroke="url(#b)" stroke-width="1px" fill="url(#a)"/>
+</g>
+</svg>
