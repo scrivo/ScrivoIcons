@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="l">
+<stop stop-color="#748388" offset="0"/>
+<stop stop-color="#cfd4d6" offset=".413"/>
+<stop stop-color="#738287" offset="1"/>
+</linearGradient>
+<linearGradient id="a">
+<stop stop-color="#2e3436" offset="0"/>
+<stop stop-color="#839095" offset=".413"/>
+<stop stop-color="#2e3436" offset="1"/>
+</linearGradient>
+<linearGradient id="m">
+<stop stop-color="#d8e4f0" offset="0"/>
+<stop stop-color="#2881df" offset="1"/>
+</linearGradient>
+<radialGradient id="y" xlink:href="#m" gradientUnits="userSpaceOnUse" cy="8.53" cx="3.52" gradientTransform="matrix(.00439 -1 1.1 .0112 -4.93 12.9)" r="2"/>
+<radialGradient id="x" cx="3.5" xlink:href="#m" gradientUnits="userSpaceOnUse" cy="9.5" r="2" gradientTransform="matrix(0,1,-1,0,13,6)"/>
+<linearGradient id="q" x1="1" xlink:href="#l" gradientUnits="userSpaceOnUse" x2="7.5" y1="6" y2="8.41"/>
+<linearGradient id="r" x1="6.66" xlink:href="#l" gradientUnits="userSpaceOnUse" x2="9.66" gradientTransform="matrix(1 0 0 .788 -.144 1.79)" y1="6.51" y2="6.51"/>
+<linearGradient id="s" x1="8" xlink:href="#l" gradientUnits="userSpaceOnUse" y1="7.5" gradientTransform="matrix(-1 0 0 1 16 -7.1e-8)" x2="1.5" y2="5"/>
+<linearGradient id="k" x1="1" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="7" y1="6" y2="7.5"/>
+<linearGradient id="i" x1="8" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="7.5" gradientTransform="matrix(-1 0 0 1 16 -7.1e-8)" x2="2" y2="6"/>
+<linearGradient id="u" x1="6.38" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="1.66" y1="10.1" y2="10"/>
+<linearGradient id="v" x1="6.5" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="9.46" y1="9.49" y2="9.49"/>
+<linearGradient id="w" x1="6.5" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="7.81" gradientTransform="translate(.0156 -.578)" x2="9.5" y2="7.81"/>
+<linearGradient id="t" y2="9.67" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="6.46" y1="9.42" x1="1.47"/>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+<dc:creator>
+<cc:Agent>
+<dc:title>Geert Bergman, geert@www.scrivo.org</dc:title>
+</cc:Agent>
+</dc:creator>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path stroke-linejoin="round" d="m1.17 8.62 2.4-2.85 0.43-1.61c-0.03-0.42 0.69-0.86 1.63-0.83 0.511 0.0147 1.46 0.227 1.37 0.926l-0.52 7.24c-0.1 1-1.21 2-2.98 2-1.69-0.0186-3-0.895-3-2z" stroke="url(#k)" stroke-width="1px" fill="url(#q)"/>
+<path d="m6 10a2 2.04 0 1 1 -4 0 2 2.04 0 1 1 4 0z" fill-rule="evenodd" transform="matrix(1.5 0 0 .982 -2.49 1.68)" stroke="url(#t)" stroke-width=".824" fill="url(#x)"/>
+<path stroke="url(#k)" stroke-width=".7" d="m1.47 8.48c1.38-1.77 5.21-1.04 5.03 0.57" fill="none"/>
+<path stroke="url(#k)" stroke-width=".7" d="m3.58 6c0.922-1.24 3.22-0.643 3.12 0.312" fill="none"/>
+<path stroke-linejoin="round" d="m14.8 8.62-2.4-2.85-0.4-1.61c0.0221-0.429-0.692-0.862-1.63-0.835-0.511 0.0147-1.46 0.227-1.37 0.926l0.52 7.25c0.1 1 1.18 2 2.98 2 1.69-0.0186 3-0.895 3-2z" stroke="url(#i)" stroke-width="1px" fill="url(#s)"/>
+<path d="m6 10a2 2.04 0 1 1 -4 0 2 2.04 0 1 1 4 0z" fill-rule="evenodd" transform="matrix(-1.5 0 0 .982 18.5 1.68)" stroke="url(#u)" stroke-width=".824" fill="url(#y)"/>
+<path stroke="url(#i)" stroke-width=".7" d="m14.6 8.51c-1.4-1.78-5.28-1.11-5.1 0.5" fill="none"/>
+<path stroke="url(#i)" stroke-width=".7" d="m12.4 5.94c-0.9-1.24-3.21-0.53-3.11 0.43" fill="none"/>
+<path stroke="url(#w)" d="m6.63 9c0.0625-1.08 2.69-1.07 2.79-0.00324l-0.3-3.11c-0.02-0.56-2.18-0.57-2.21-0.01z" fill="url(#r)"/>
+<path d="m9.97 9.48a1.99 1.26 0 1 1 -3.98 0 1.99 1.26 0 1 1 3.98 0z" transform="matrix(.701 0 0 .758 2.43 1.82)" stroke="url(#v)" stroke-width="1.37px" fill="#9ea9ac"/>
+</svg>
