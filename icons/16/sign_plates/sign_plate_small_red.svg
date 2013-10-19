@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" enable-background="new">
+<defs>
+<filter id="e" y="-.116" width="1.23" x="-.116" height="1.23">
+<feGaussianBlur stdDeviation="0.5814978"/>
+</filter>
+<linearGradient id="f" y2="1.5" gradientUnits="userSpaceOnUse" y1="14" x2="5" x1="11">
+<stop stop-color="#c00" offset="0"/>
+<stop stop-color="#f57b7b" offset="1"/>
+</linearGradient>
+<linearGradient id="g" y2="1" gradientUnits="userSpaceOnUse" y1="15" x2="5" x1="11">
+<stop stop-color="#700" offset="0"/>
+<stop stop-color="#ba0000" offset="1"/>
+</linearGradient>
+<linearGradient id="h" y2="2.5" gradientUnits="userSpaceOnUse" y1="11" x2="6" x1="10">
+<stop stop-color="#c00" stop-opacity="0" offset="0"/>
+<stop stop-color="#f36161" offset=".5"/>
+<stop stop-color="#fff" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+<dc:creator>
+<cc:Agent>
+<dc:title>Geert Bergman, geert@www.scrivo.org</dc:title>
+</cc:Agent>
+</dc:creator>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path transform="matrix(.667 0 0 .667 2.67 2.67)" fill="url(#f)" d="m15.5 8a7.5 7.5 0 1 1 -15 0 7.5 7.5 0 1 1 15 0z" fill-rule="evenodd"/>
+<g fill="none">
+<path stroke="url(#g)" stroke-width="1.5px" d="m15.5 8a7.5 7.5 0 1 1 -15 0 7.5 7.5 0 1 1 15 0z" transform="matrix(.667 0 0 .667 2.67 2.67)"/>
+<path opacity=".798" d="m14 8a6 6 0 1 1 -12 0 6 6 0 1 1 12 0z" transform="matrix(.636 0 0 .636 2.92 2.92)" filter="url(#e)" stroke="url(#h)" stroke-width=".944"/>
+</g>
+</svg>
