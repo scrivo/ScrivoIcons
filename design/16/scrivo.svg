@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg3000"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="scrivo.svg"
+   enable-background="new"
+   inkscape:export-filename="/home/www/scrivo/ScrivoIcons/16/scrivo_blue.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3002">
+    <linearGradient
+       id="linearGradient11148">
+      <stop
+         style="stop-color:#a40000;stop-opacity:1;"
+         offset="0"
+         id="stop11150" />
+      <stop
+         style="stop-color:#a40000;stop-opacity:1;"
+         offset="1"
+         id="stop11152" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11148"
+       id="linearGradient11154"
+       x1="4.4265656"
+       y1="7.987946"
+       x2="11.020508"
+       y2="7.987946"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="-1.5712696"
+     inkscape:cy="8.3496179"
+     inkscape:current-layer="g11176"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="954"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3008"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.5px"
+       spacingy="0.5px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3005">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Geert Bergman, geert@www.scrivo.org</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="red"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:20.24097824px;font-style:italic;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a40000;fill-opacity:1;stroke:url(#linearGradient11154);stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold Italic'"
+       x="4.5213509"
+       y="14.703642"
+       id="text10636"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10638"
+         x="4.5213509"
+         y="14.703642"
+         style="font-weight:bold;fill:#a40000;stroke:url(#linearGradient11154);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Times New Roman, Bold Italic'">i</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="blue"
+     id="g11156"
+     inkscape:groupmode="layer">
+    <text
+       sodipodi:linespacing="125%"
+       id="text11158"
+       y="14.703642"
+       x="4.5213509"
+       style="font-size:20.24097824px;font-style:italic;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#204a87;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold Italic'"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#204a87;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:'Times New Roman, Bold Italic'"
+         y="14.703642"
+         x="4.5213509"
+         id="tspan11160"
+         sodipodi:role="line">i</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11162"
+     inkscape:label="purple"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:20.24097824px;font-style:italic;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c3566;fill-opacity:1;stroke:url(#linearGradient11154);stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold Italic'"
+       x="4.5213509"
+       y="14.703642"
+       id="text11164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11166"
+         x="4.5213509"
+         y="14.703642"
+         style="font-weight:bold;fill:#5c3566;fill-opacity:1;stroke:url(#linearGradient11154);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Times New Roman, Bold Italic'">i</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="yellow"
+     id="g11176"
+     inkscape:groupmode="layer">
+    <text
+       sodipodi:linespacing="125%"
+       id="text11178"
+       y="14.703642"
+       x="4.5213509"
+       style="font-size:20.24097824px;font-style:italic;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c4a000;fill-opacity:1;stroke:url(#linearGradient11154);stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold Italic'"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#c4a000;fill-opacity:1;stroke:url(#linearGradient11154);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Times New Roman, Bold Italic'"
+         y="14.703642"
+         x="4.5213509"
+         id="tspan11180"
+         sodipodi:role="line">i</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11182"
+     inkscape:label="green"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:20.24097824px;font-style:italic;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4e9a06;fill-opacity:1;stroke:url(#linearGradient11154);stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold Italic'"
+       x="4.5213509"
+       y="14.703642"
+       id="text11184"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11186"
+         x="4.5213509"
+         y="14.703642"
+         style="font-weight:bold;fill:#4e9a06;fill-opacity:1;stroke:url(#linearGradient11154);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Times New Roman, Bold Italic'">i</tspan></text>
+  </g>
+</svg>
