@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" enable-background="new">
+<defs>
+<linearGradient id="e" x1="8.55" gradientUnits="userSpaceOnUse" y1="7.56" gradientTransform="matrix(.603 0 0 .609 3.43 3.13)" x2="7.56" y2=".575">
+<stop stop-color="#3c4446" offset="0"/>
+<stop stop-color="#7a7d77" offset="1"/>
+</linearGradient>
+<linearGradient id="f" x1="7.5" gradientUnits="userSpaceOnUse" y1="7.5" gradientTransform="matrix(.636 0 0 .633 2.91 2.75)" x2="8.5" y2="15.5">
+<stop stop-color="#fffcea" offset="0"/>
+<stop stop-color="#fef6b8" offset="1"/>
+</linearGradient>
+<linearGradient id="g" x1="8.5" gradientUnits="userSpaceOnUse" y1="15.5" gradientTransform="matrix(.636 0 0 .633 2.91 2.75)" x2="7.5" y2="7.5">
+<stop stop-color="#826a00" offset="0"/>
+<stop stop-color="#a18400" offset="1"/>
+</linearGradient>
+<linearGradient id="h" x1="8" gradientUnits="userSpaceOnUse" y1="14" gradientTransform="matrix(.625 0 0 .6 3 3.1)" x2="7.5" y2="9">
+<stop stop-color="#e0c800" offset="0"/>
+<stop stop-color="#ffea34" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+<dc:creator>
+<cc:Agent>
+<dc:title>Geert Bergman, geert@www.scrivo.org</dc:title>
+</cc:Agent>
+</dc:creator>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path d="m9.5 8v-2.5c0-0.61-0.5-1-1.5-1s-1.5 0.37-1.5 1v2.5h-1v-2.5c0-1 1-2 2.5-2s2.5 1 2.5 2c0.000663 0.0238 0 2 0 2.5z" stroke="url(#e)" stroke-width="1px" fill="none"/>
+<rect stroke-linejoin="round" ry=".633" height="5" width="7" stroke="url(#g)" y="7.5" x="4.5" fill="url(#f)"/>
+<rect ry="0" height="3" width="5" y="8.5" x="5.5" stroke-width="0" fill="url(#h)"/>
+<path transform="matrix(.769 0 0 .781 1.96 1.4)" fill="#2e3436" d="m8.79 10.5a0.789 0.773 0 1 1 -1.58 0 0.789 0.773 0 1 1 1.58 0z" fill-rule="evenodd"/>
+<path d="m7.5 11h1.21l-0.31-0.8-0.31-0.72z" fill="#2e3436"/>
+</svg>
