@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" enable-background="new" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="a" y2="3.5" gradientUnits="userSpaceOnUse" x2="7.5" gradientTransform="matrix(.667 0 0 .698 3.17 3.06)" y1="13.5" x1="8.5">
+<stop stop-color="#556063" offset="0"/>
+<stop stop-color="#6d7c80" offset="1"/>
+</linearGradient>
+<linearGradient id="c" y2="3.48" gradientUnits="userSpaceOnUse" y1="13.5" gradientTransform="matrix(.579 0 0 .558 3.86 4.26)" x2="8.02" x1="9.17">
+<stop stop-color="#d3d7cf" offset="0"/>
+<stop stop-color="#e8eae6" offset="1"/>
+</linearGradient>
+<linearGradient id="b" y2="9.52" gradientUnits="userSpaceOnUse" y1="19.6" gradientTransform="matrix(.579 0 0 .558 8.75 .858)" x2="-1.34" x1="-.425">
+<stop stop-color="#eaece8" offset="0"/>
+<stop stop-color="#f5f5f4" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+<dc:creator>
+<cc:Agent>
+<dc:title>Geert Bergman, geert@www.scrivo.org</dc:title>
+</cc:Agent>
+</dc:creator>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g>
+<rect height="5.58" width="8.69" stroke="url(#b)" stroke-linecap="square" y="6.21" x="4.15" fill="url(#c)"/>
+<path stroke-linejoin="round" d="m12.5 12.5-2.3-3.16m-5.7 3.16 2.67-3.16m-3.67-3.84l4.67 4.89h0.667l4.66-4.9m-10 0h10v6.98h-10z" stroke="url(#a)" stroke-width="1px" fill="none"/>
+</g>
+</svg>
