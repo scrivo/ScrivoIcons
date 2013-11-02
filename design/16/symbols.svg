@@ -358,9 +358,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="44.395605"
-     inkscape:cx="4.7377008"
-     inkscape:cy="7.3769011"
+     inkscape:zoom="11.098901"
+     inkscape:cx="49.146211"
+     inkscape:cy="-14.77517"
      inkscape:current-layer="g4106"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -390,7 +390,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:creator>
