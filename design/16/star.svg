@@ -15,7 +15,7 @@
    id="svg3000"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="star.svg"
+   sodipodi:docname="star_blue.svg"
    enable-background="new"
    inkscape:export-filename="/home/www/scrivo/ScrivoIcons/star.png"
    inkscape:export-xdpi="90"
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:creator>
