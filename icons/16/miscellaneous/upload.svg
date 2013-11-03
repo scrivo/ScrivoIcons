@@ -11,7 +11,7 @@
 </linearGradient>
 <linearGradient id="b" y2="9.01" gradientUnits="userSpaceOnUse" y1="7.01" gradientTransform="matrix(0 1 -1 0 16 1.57)" x2=".485" x1="14.3">
 <stop stop-color="#132c50" offset="0"/>
-<stop stop-color="#2960ae" offset="1"/>
+<stop stop-color="#245498" offset="1"/>
 </linearGradient>
 <linearGradient id="f" y2="7" gradientUnits="userSpaceOnUse" x2="7" gradientTransform="translate(0,1)" y1="14" x1="8">
 <stop stop-color="#79888c" offset="0"/>

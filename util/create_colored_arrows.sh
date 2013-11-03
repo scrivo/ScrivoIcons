@@ -18,7 +18,7 @@ done
 
 # blue
 ls *blue.svg | xargs sed -i -e 's/#316004/#132c50/g'
-ls *blue.svg | xargs sed -i -e 's/#4e9a06/#2960ae/g'
+ls *blue.svg | xargs sed -i -e 's/#4e9a06/#245498/g'
 ls *blue.svg | xargs sed -i -e 's/#78d21e/#6194c9/g'
 ls *blue.svg | xargs sed -i -e 's/#c8f39d/#c1d5ea/g'
 # red

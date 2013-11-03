@@ -23,10 +23,10 @@ done
 
 # blue
 ls *blue.svg | xargs sed -i -e 's/#2e5c04/#193b6c/g'
-ls *blue.svg | xargs sed -i -e 's/#64b218/#3567a6/g'
+ls *blue.svg | xargs sed -i -e 's/#64b218/#245498/g'
 ls *blue.svg | xargs sed -i -e 's/#4d9806/#235295/g'
 ls *blue.svg | xargs sed -i -e 's/#c8f29f/#a4c1e1/g'
-ls *blue.svg | xargs sed -i -e 's/#4e9a06/#204a80/g'
+ls *blue.svg | xargs sed -i -e 's/#4e9a06/#204a87/g'
 ls *blue.svg | xargs sed -i -e 's/#adeb70/#729fcf/g'
 
 # red
