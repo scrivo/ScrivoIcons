@@ -2,16 +2,16 @@
 <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" enable-background="new">
 <defs>
 <linearGradient id="c" y2="1.5" gradientUnits="userSpaceOnUse" x2="5" y1="14" x1="11">
-<stop stop-color="#4d9806" offset="0"/>
-<stop stop-color="#c8f29f" offset="1"/>
+<stop stop-color="#4e9a06" offset="0"/>
+<stop stop-color="#b8ee83" offset="1"/>
 </linearGradient>
 <linearGradient id="b" y2="1" gradientUnits="userSpaceOnUse" x2="5" y1="15" x1="11">
-<stop stop-color="#2e5c04" offset="0"/>
-<stop stop-color="#64b218" offset="1"/>
+<stop stop-color="#3d7804" offset="0"/>
+<stop stop-color="#52a108" offset="1"/>
 </linearGradient>
 <linearGradient id="a" y2="2.5" gradientUnits="userSpaceOnUse" x2="6" y1="11" x1="10">
-<stop stop-color="#4e9a06" stop-opacity="0" offset="0"/>
-<stop stop-color="#adeb70" offset=".5"/>
+<stop stop-color="#488e05" stop-opacity="0" offset="0"/>
+<stop stop-color="#9ee757" offset=".5"/>
 <stop stop-color="#fff" offset="1"/>
 </linearGradient>
 <filter id="d" y="-.116" width="1.23" height="1.23" x="-.116">

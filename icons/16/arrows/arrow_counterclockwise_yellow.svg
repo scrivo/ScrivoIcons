@@ -2,12 +2,12 @@
 <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" enable-background="new" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <defs>
 <linearGradient id="b" y2="4.02" gradientUnits="userSpaceOnUse" y1="13.1" gradientTransform="matrix(-1 0 0 1 16.1 4.94e-7)" x2="9.08" x1="6.94">
-<stop stop-color="#fce31c" offset="0"/>
+<stop stop-color="#f8e43e" offset="0"/>
 <stop stop-color="#fef9ce" offset="1"/>
 </linearGradient>
 <linearGradient id="a" y2="3" gradientUnits="userSpaceOnUse" y1="14" gradientTransform="matrix(-1 0 0 1 16.1 4.94e-7)" x2="9.08" x1="7.03">
-<stop stop-color="#705b00" offset="0"/>
-<stop stop-color="#a28400" offset="1"/>
+<stop stop-color="#866d00" offset="0"/>
+<stop stop-color="#c9a600" offset="1"/>
 </linearGradient>
 </defs>
 <metadata>

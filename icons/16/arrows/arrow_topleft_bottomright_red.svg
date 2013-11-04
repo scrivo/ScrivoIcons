@@ -3,10 +3,10 @@
 <defs>
 <linearGradient id="b" y2=".983" gradientUnits="userSpaceOnUse" y1="15" gradientTransform="matrix(-1 0 0 1 16 .0165)" x2="9.04" x1="7.04">
 <stop stop-color="#5f0000" offset="0"/>
-<stop stop-color="#a40000" offset="1"/>
+<stop stop-color="#b40000" offset="1"/>
 </linearGradient>
 <linearGradient id="a" y2="2" gradientUnits="userSpaceOnUse" x2="7" y1="13.5" x1="9">
-<stop stop-color="#f03c3c" offset="0"/>
+<stop stop-color="#e72020" offset="0"/>
 <stop stop-color="#f89999" offset="1"/>
 </linearGradient>
 </defs>

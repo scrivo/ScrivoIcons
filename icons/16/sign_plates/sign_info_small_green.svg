@@ -5,16 +5,16 @@
 <feGaussianBlur stdDeviation="0.5814978"/>
 </filter>
 <linearGradient id="g" y2="1.5" gradientUnits="userSpaceOnUse" y1="14" x2="5" x1="11">
-<stop stop-color="#4d9806" offset="0"/>
-<stop stop-color="#c8f29f" offset="1"/>
+<stop stop-color="#4e9a06" offset="0"/>
+<stop stop-color="#b8ee83" offset="1"/>
 </linearGradient>
 <linearGradient id="h" y2="1" gradientUnits="userSpaceOnUse" y1="15" x2="5" x1="11">
-<stop stop-color="#2e5c04" offset="0"/>
-<stop stop-color="#64b218" offset="1"/>
+<stop stop-color="#3d7804" offset="0"/>
+<stop stop-color="#52a108" offset="1"/>
 </linearGradient>
 <linearGradient id="i" y2="2.5" gradientUnits="userSpaceOnUse" y1="11" x2="6" x1="10">
-<stop stop-color="#4e9a06" stop-opacity="0" offset="0"/>
-<stop stop-color="#adeb70" offset=".5"/>
+<stop stop-color="#488e05" stop-opacity="0" offset="0"/>
+<stop stop-color="#9ee757" offset=".5"/>
 <stop stop-color="#fff" offset="1"/>
 </linearGradient>
 <linearGradient id="e" y2="11.7" gradientUnits="userSpaceOnUse" x2="8.12" y1="4.47" x1="7.73">

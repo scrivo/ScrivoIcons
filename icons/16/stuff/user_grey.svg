@@ -7,12 +7,12 @@
 </linearGradient>
 <radialGradient id="e" xlink:href="#a" gradientUnits="userSpaceOnUse" cy="4" cx="7" gradientTransform="matrix(0 .875 -1 0 11 -2.12)" r="4"/>
 <radialGradient id="d" gradientUnits="userSpaceOnUse" cy="9.5" cx="6.5" gradientTransform="matrix(-2.16e-8 .861 -1 -2.78e-8 15.8 4.73)" r="6">
-<stop stop-color="#dddddb" offset="0"/>
-<stop stop-color="#a1a49b" offset="1"/>
+<stop stop-color="#e0e0de" offset="0"/>
+<stop stop-color="#aeb1aa" offset="1"/>
 </radialGradient>
 <linearGradient id="f" y2="15" gradientUnits="userSpaceOnUse" x2="9" gradientTransform="matrix(1.09 0 0 1.15 -.797 -1.16)" y1="7" x1="7">
-<stop stop-color="#5b5d59" offset="0"/>
-<stop stop-color="#262b2d" offset="1"/>
+<stop stop-color="#696b67" offset="0"/>
+<stop stop-color="#353939" offset="1"/>
 </linearGradient>
 <radialGradient id="c" xlink:href="#a" gradientUnits="userSpaceOnUse" cy="12.5" cx="2.5" gradientTransform="matrix(0,1,-1,0,15,9)" r="2"/>
 <radialGradient id="b" xlink:href="#a" gradientUnits="userSpaceOnUse" cy="11.5" cx="12.5" gradientTransform="matrix(0 .75 -1 0 24 2.12)" r="2"/>
