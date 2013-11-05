@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16px" width="16px" version="1.1" enable-background="new" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="b">
+<stop stop-color="#3d7804" offset="0"/>
+<stop stop-color="#52a108" offset="1"/>
+</linearGradient>
+<linearGradient id="e">
+<stop stop-color="#3a3c39" offset="0"/>
+<stop stop-color="#1c1f21" offset="1"/>
+</linearGradient>
+<linearGradient id="a" y2="14.5" xlink:href="#e" gradientUnits="userSpaceOnUse" x2="11.5" gradientTransform="translate(.0221 .994)" y1="1" x1="10"/>
+<linearGradient id="d" y2="-2" xlink:href="#b" gradientUnits="userSpaceOnUse" x2="2" y1="17" x1="3.5"/>
+<linearGradient id="c" y2="15" gradientUnits="userSpaceOnUse" x2="2.5" y1=".431" x1="1.98">
+<stop stop-color="#8ae234" offset="0"/>
+<stop stop-color="#73d216" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient9004" y2=".431" xlink:href="#b" gradientUnits="userSpaceOnUse" x2="1.98" y1="15" x1="2.5"/>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+<dc:creator>
+<cc:Agent>
+<dc:title>Geert Bergman, geert@www.scrivo.org</dc:title>
+</cc:Agent>
+</dc:creator>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g>
+<path d="m15.1 2.49h-8.11c-0.591 0.00391-0.598 1 0 1h8.11c0.595 0.00391 0.626-0.996 0-1zm-0.976 7.01h-7.19c-0.524 0.0039-0.53 1 0 1h7.19c0.527 0.0039 0.555-0.996 0-1zm0.936 2.98h-8.09c-0.59 0.0039-0.597 1 0 1h8.09c0.593 0.0039 0.625-0.996 0-1zm-1.89-6.99h-6.28c-0.458 0.00391-0.463 1 0 1h6.28c0.46 0.00391 0.485-0.996 0-1z" stroke="url(#a)" fill="url(#a)"/>
+<g fill-rule="evenodd" stroke="url(#d)" stroke-width="1px" fill="url(#c)">
+<path d="m4.5 3.5a2 2 0 1 1 -4 0 2 2 0 1 1 4 0z" transform="translate(0 .994)"/>
+<path d="m4.5 12a2 2 0 1 1 -4 0 2 2 0 1 1 4 0z" transform="translate(0 -.508)"/>
+</g>
+</g>
+</svg>

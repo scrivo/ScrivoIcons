@@ -2,13 +2,12 @@
 <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <defs>
 <linearGradient id="d" y2="10.5" gradientUnits="userSpaceOnUse" x2="8.04" gradientTransform="matrix(-1 0 0 1 16 0)" y1="16.5" x1="7.04">
-<stop stop-color="#4d9806" offset="0"/>
-<stop stop-color="#73d216" offset=".680"/>
-<stop stop-color="#c8f29f" offset="1"/>
+<stop stop-color="#4e9a06" offset="0"/>
+<stop stop-color="#c8f39d" offset="1"/>
 </linearGradient>
 <linearGradient id="c" y2="10" gradientUnits="userSpaceOnUse" x2="8.04" gradientTransform="matrix(-1 0 0 1 16 0)" y1="17" x1="7.04">
-<stop stop-color="#2e5c04" offset="0"/>
-<stop stop-color="#5da616" offset="1"/>
+<stop stop-color="#316004" offset="0"/>
+<stop stop-color="#52a108" offset="1"/>
 </linearGradient>
 <linearGradient id="b" y2="11" gradientUnits="userSpaceOnUse" x2="9" x1="7">
 <stop stop-color="#3a3c39" offset="0"/>

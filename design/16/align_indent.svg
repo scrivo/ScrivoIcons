@@ -49,24 +49,20 @@
       <stop
          id="stop11608"
          offset="0"
-         style="stop-color:#2e5c04;stop-opacity:1;" />
+         style="stop-color:#132c50;stop-opacity:1;" />
       <stop
          id="stop11612"
          offset="1"
-         style="stop-color:#5da616;stop-opacity:1;" />
+         style="stop-color:#245498;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient11044">
       <stop
-         style="stop-color:#4d9806;stop-opacity:1;"
+         style="stop-color:#235295;stop-opacity:1;"
          offset="0"
          id="stop11046" />
       <stop
-         id="stop11052"
-         offset="0.68000001"
-         style="stop-color:#73d216;stop-opacity:1;" />
-      <stop
-         style="stop-color:#c8f29f;stop-opacity:1;"
+         style="stop-color:#c1d5ea;stop-opacity:1;"
          offset="1"
          id="stop11048" />
     </linearGradient>
@@ -347,7 +343,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="6.9703283"
+     inkscape:cx="1.4078283"
      inkscape:cy="8.3892463"
      inkscape:current-layer="g4863"
      showgrid="true"
@@ -378,7 +374,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:creator>
@@ -395,7 +391,7 @@
      id="g4863"
      inkscape:groupmode="layer">
     <path
-       style="fill:url(#linearGradient4987);fill-opacity:1;stroke:url(#linearGradient4979);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:url(#linearGradient4987);fill-opacity:1.0;stroke:url(#linearGradient4979);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
        d="m 0.5,13.5 3,-3 0,2 10,0 0,2 -10,0 0,2 z"
        id="path4971"
        inkscape:connector-curvature="0" />

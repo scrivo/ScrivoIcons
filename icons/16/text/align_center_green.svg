@@ -10,13 +10,12 @@
 <stop stop-color="#67747b" offset="1"/>
 </linearGradient>
 <linearGradient id="b" y2="10" gradientUnits="userSpaceOnUse" x2="7.5" y1="17" x1="8.5">
-<stop stop-color="#2e5c04" offset="0"/>
-<stop stop-color="#5da616" offset="1"/>
+<stop stop-color="#316004" offset="0"/>
+<stop stop-color="#52a108" offset="1"/>
 </linearGradient>
 <linearGradient id="a" y2="10.7" gradientUnits="userSpaceOnUse" x2="7.54" y1="16.5" x1="8.46">
-<stop stop-color="#4d9806" offset="0"/>
-<stop stop-color="#73d216" offset=".680"/>
-<stop stop-color="#c8f29f" offset="1"/>
+<stop stop-color="#4e9a06" offset="0"/>
+<stop stop-color="#c8f39d" offset="1"/>
 </linearGradient>
 </defs>
 <metadata>
