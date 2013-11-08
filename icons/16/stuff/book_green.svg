@@ -38,11 +38,11 @@
 <path d="m14.5 8.51v2.5l-7 4v-2.5z" stroke="#babdb6" stroke-width="1px" fill="#eeeeec"/>
 <path d="m1 4.5 7 7 7.06-4.22-6.88-6.31z" fill="url(#f)"/>
 <path d="m0.5 9 6 6h1v-3l-7-7z" fill="url(#e)"/>
+</g>
 <g stroke-width="1px">
-<path d="m0.688 4.69 7.19 7.11" stroke="#e0eaf4" fill="#cdf4a6"/>
+<path d="m0.688 4.69 7.19 7.11" stroke="#cdf4a6" fill="none"/>
 <path d="m15 11.5v-0.5" stroke="url(#c)" stroke-linecap="round" fill="url(#g)"/>
 <path d="m14.5 8.01v3.5" stroke="#888a85" fill="#888a85"/>
-</g>
 </g>
 <path stroke-linejoin="round" d="m7.5 15.5h0.5l7-4m-14.5-6.5 0.5-0.5 7-3.49h0.5c0.938 0.752 3.25 3.01 6.5 6v0.5l-6.95 3.99-0.55 0.5v3.55c-6.06-6.22-1-1-6.81-7l-0.188-0.5z" stroke="url(#d)" stroke-linecap="round" stroke-width="1px" fill="none"/>
 </g>

@@ -15,7 +15,7 @@
    id="svg3000"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="star_blue.svg"
+   sodipodi:docname="star.svg"
    enable-background="new"
    inkscape:export-filename="/home/www/scrivo/ScrivoIcons/star.png"
    inkscape:export-xdpi="90"
@@ -25,11 +25,11 @@
     <linearGradient
        id="linearGradient4181">
       <stop
-         style="stop-color:#729fcf;stop-opacity:1;"
+         style="stop-color:#a4c1e1;stop-opacity:1;"
          offset="0"
          id="stop4183" />
       <stop
-         style="stop-color:#3465a4;stop-opacity:1;"
+         style="stop-color:#729fcf;stop-opacity:1;"
          offset="1"
          id="stop4185" />
     </linearGradient>
@@ -111,7 +111,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="7"
+     inkscape:cx="1.5"
      inkscape:cy="6.3625963"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -120,8 +120,8 @@
      inkscape:snap-grids="false"
      inkscape:window-width="1299"
      inkscape:window-height="870"
-     inkscape:window-x="226"
-     inkscape:window-y="25"
+     inkscape:window-x="236"
+     inkscape:window-y="105"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true">
     <inkscape:grid
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:creator>
