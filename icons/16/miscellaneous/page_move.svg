@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" enable-background="new" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="a">
+<stop stop-color="#959793" offset="0"/>
+<stop stop-color="#797d76" offset="1"/>
+</linearGradient>
+<linearGradient id="h" y2="16" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="8" gradientTransform="matrix(.585 0 0 .534 7.62 .233)" x1="6"/>
+<linearGradient id="g" y2="6.06" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="8.71" gradientTransform="matrix(.509 0 0 .472 8.75 .192)" y1="2.5" x1="11.5"/>
+<linearGradient id="f" y2="14" gradientUnits="userSpaceOnUse" x2="8" gradientTransform="matrix(.612 0 0 .550 7.42 .0867)" y1="2" x1="6">
+<stop stop-color="#e8ecf1" offset="0"/>
+<stop stop-color="#b8c2cd" offset="1"/>
+</linearGradient>
+<linearGradient id="e" y2="15" gradientUnits="userSpaceOnUse" x2="8" gradientTransform="matrix(.612 0 0 .550 7.42 .0867)" y1="1" x1="6">
+<stop stop-color="#fdfeff" offset="0"/>
+<stop stop-color="#d7d8e1" offset="1"/>
+</linearGradient>
+<linearGradient id="d" y2="2.05" gradientUnits="userSpaceOnUse" x2="12" gradientTransform="matrix(0.6 0 0 .543 7.5 .142)" y1="3.5" x1="10.5">
+<stop stop-color="#e8ecf1" offset="0"/>
+<stop stop-color="#b8c2cd" offset="1"/>
+</linearGradient>
+<linearGradient id="c" y2="15" gradientUnits="userSpaceOnUse" x2="4.1" gradientTransform="matrix(-.465 .473 -.466 -.459 16.4 10.5)" y1="3.2" x1="13.8">
+<stop stop-color="#f8e43e" offset="0"/>
+<stop stop-color="#fef9ce" offset="1"/>
+</linearGradient>
+<linearGradient id="b" y2="15.5" gradientUnits="userSpaceOnUse" x2="3.57" gradientTransform="matrix(-.465 .473 -.466 -.459 16.4 10.5)" y1="2.63" x1="14.4">
+<stop stop-color="#866d00" offset="0"/>
+<stop stop-color="#c9a600" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+<dc:creator>
+<cc:Agent>
+<dc:title>Geert Bergman, geert@www.scrivo.org</dc:title>
+</cc:Agent>
+</dc:creator>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g>
+<path d="m13.5 0.413v1.9h2.1z" stroke-width="0" fill="url(#d)"/>
+<g>
+<path d="m8.95 0.912v7.15h6.12v-6.05l-1.22-1.1z" stroke="url(#e)" stroke-width="1.13" fill="url(#f)"/>
+<path stroke-linejoin="round" d="m13.6 0.664v1.65h1.78-1.78z" stroke="url(#g)" stroke-linecap="square" fill="none"/>
+<path stroke-linejoin="round" d="m8.5 0.5v8.01h7.02v-6.41l-1.7-1.6z" stroke="url(#h)" fill="none"/>
+</g>
+<path stroke-linejoin="round" d="m3.34 12.1 4.19 4.13-0.000812-2.79c1.84-0.0363 2.91-0.209 3.98-1.27 1.18-1.28 1.33-2.34 1.14-3.93-0.2-1.07-0.6-1.64-1.4-2.34-0.9-0.67-1.81-0.86-1.81-0.87 0.71 1.04 1.11 1.77 1.31 2.56 0.1 1.05 0 1.72-0.6 2.33-0.8 0.82-1.65 0.72-2.57 0.72l-0.01-2.78z" stroke="url(#b)" stroke-width="1px" fill="url(#c)"/>
+</g>
+</svg>
